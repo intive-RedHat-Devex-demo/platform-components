@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: platform-components
+  annotations:
+    github.com/project-slug: intive-RedHat-Devex-demo/platform-components
+spec:
+  type: other
+  lifecycle: unknown
+  owner: intive-RedHat-Devex-demo
