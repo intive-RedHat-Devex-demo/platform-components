@@ -4,6 +4,7 @@ metadata:
   name: platform-components
   annotations:
     github.com/project-slug: intive-RedHat-Devex-demo/platform-components
+    argocd/app-name: openshift-gitops-server
 spec:
   type: library
   lifecycle: experimental
